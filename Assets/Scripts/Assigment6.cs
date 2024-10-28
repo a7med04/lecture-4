@@ -20,5 +20,6 @@ public class Assigment6 : MonoBehaviour
             playerLives--;
         }
         Debug.Log("Game Over!! :(");
+        Debug.Log("A7");
     }
 }
